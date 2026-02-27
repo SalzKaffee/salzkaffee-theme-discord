@@ -237,7 +237,7 @@
   "background": {
     "url": "https://cdn.donmai.us/original/ac/8f/__alpha_and_alpha_crimson_weave_punishing_gray_raven__ac8f7ba2604fcf55a8ac02eae2e8a840.jpg",
     "blur": 0.0,
-    "alpha": 0.5,
+    "alpha": 0.25,
     "size": "cover",
     "position": "center"
   },
