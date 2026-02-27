@@ -1,9 +1,9 @@
 {
   "name": "AMOLED anime theme",
-  "description": "AMOLED Rem theme",
+  "description": "AMOLED Alpha theme",
   "authors": [
     {
-      "name": "wiwiichan",
+      "name": "saltcoffee",
       "id": "725075745671479296"
     }
   ],
@@ -235,7 +235,7 @@
     "PLUM_24": "#000000"
   },
   "background": {
-    "url": "https://cdn.donmai.us/original/b5/5b/__lappland_arknights_drawn_by_junpaku_karen__b55bfa6b4815769ee9d21c2fa927123a.jpg",
+    "url": "https://cdn.donmai.us/original/ac/8f/__alpha_and_alpha_crimson_weave_punishing_gray_raven__ac8f7ba2604fcf55a8ac02eae2e8a840.jpg",
     "blur": 0.0,
     "alpha": 0.5,
     "size": "cover",
