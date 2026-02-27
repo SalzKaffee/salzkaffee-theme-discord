@@ -236,8 +236,8 @@
   },
   "background": {
     "url": "https://cdn.donmai.us/original/b5/5b/__lappland_arknights_drawn_by_junpaku_karen__b55bfa6b4815769ee9d21c2fa927123a.jpg",
-    "blur": 0.5,
-    "alpha": 0.25,
+    "blur": 0,
+    "alpha": 1,
     "size": "cover",
     "position": "center"
   },
